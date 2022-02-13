@@ -57,6 +57,10 @@
 </div>
 
 <style>
+  :global(body) {
+    font-family: "Varela Round", sans-serif;
+  }
+
   #lore {
     /* max-width: 2560px;
     max-height: 1440px; */

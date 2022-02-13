@@ -6,6 +6,10 @@
 <p>Currently under construction...<br />Come back soon!</p>
 
 <style>
+  :global(body) {
+    font-family: "Varela Round", sans-serif;
+  }
+
   #logo {
     margin: 20% auto 0 auto;
     display: block;
